@@ -1,1 +1,1 @@
-./darknet yolo demo cfg/yolo-tiny.cfg yolo-tiny.weights
+./darknet yolo demo cfg/yolo-tiny.cfg yolo-tiny.weights $1
